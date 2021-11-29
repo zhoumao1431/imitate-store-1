@@ -1,0 +1,98 @@
+body{
+    width: 1400px;
+}
+.fl{
+    float: left;
+}
+.fr{
+    float: right;
+}
+#headNav {
+    padding: 16px;
+    background: #FFF;
+    border-bottom: 1px solid #e1e1e1;
+    box-shadow: 0 0 10px #ccc;
+}
+.innerNav {
+    margin: 0 auto;
+    width: 1200px;
+    height: 50px;
+    position: relative;
+}
+#headNav img {
+    display: block;
+    height: 55px;
+    width: auto;
+}
+.headFont{
+    padding-right: 0;
+}
+.headFont span,.headFont a {
+    line-height: 18px;
+    font-family: "SimSun";
+    font-size: 12px;
+    color: #999;
+    vertical-align: middle;
+}
+.headFont span a {
+    color: #06c;
+}
+.headFont span a:hover {
+    color: #f60;
+}
+.headFont>a {
+    margin-left: 25px;
+    color: #E60012;
+}
+.headFont>a {
+    margin-left: 25px;
+    color: #333;
+}
+
+.runbun,.turnb {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    vertical-align: middle;
+    margin: 0;
+    margin-left: 5px;
+    margin-bottom: 3px;
+}
+.runbun {
+    background: url(../img/runbun.png) no-repeat;
+    background-size: 100% 100%;
+}
+.turnb {
+    background: url(../img/turnb.png) no-repeat;
+    background-size: 100% 100%;
+}
+.helpLink {
+    color: #333;
+    font-size: 12px;
+}
+.helpLink:hover {
+    color: #E60012;
+}
+.outHelp {
+    position: absolute;
+    top: -4px;
+    right: 0;
+    width: 98px;
+    padding-top: 25px;
+    border: 1px solid #CCC;
+}
+.helpYou {
+    background: #fff;
+}
+.helpYou li a {
+    height: 24px;
+    display: block;
+    padding-left: 25px;
+    border-top: 1px dotted #e4e4e4;
+    background: #FFF;
+    line-height: 24px;
+    color: #333;
+}
+.helpYou li a:hover {
+    color: #E60012;
+}

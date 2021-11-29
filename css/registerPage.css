@@ -1,0 +1,53 @@
+
+.title{
+    font-family: "微软雅黑";
+    font-size: 20px;
+    font-weight: 800;
+}
+.registerBox{
+    padding: 0;
+}
+
+.input1{
+   height: 50px;
+    margin-top: 20px;
+}
+
+.btn_yz{
+    margin-top: 20px;
+    height:49px;
+    background: black;
+    color: white;
+    border-radius: 10px;
+}
+.btn_yz:hover{
+    background: #bfbfbf;
+}
+.text{
+    margin-top:10px;
+    margin-bottom:10px;
+}
+
+.text a{
+    text-decoration: none;
+}
+
+.btn_agree{
+    height: 50px;
+    background: #d71201;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    font-size: 22px;
+}
+.btn_agree:hover{
+    background: #ff6d22;
+}
+.text_bottom{
+    font-size: 10px;
+}
+iframe{
+    border: 0;
+    height: 170px;
+    margin-left: 200px;
+}

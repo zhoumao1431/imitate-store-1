@@ -1,0 +1,118 @@
+
+.login_img1{
+    margin-top: 50px;
+    margin-left: 80px;
+}
+.login_table{
+    margin-top: 80px;
+    padding: 0;
+}
+.login_table a{
+    text-decoration: none;
+}
+.text{
+    padding: 0;
+}
+/*.headUser{
+    width: 24px;
+    height: 24px;
+    display: inline-block;
+    background: url(../img/userHead.png) no-repeat;
+    background-size: 100% 100%;
+    vertical-align: middle;
+}*/
+.userInput{
+    margin-top: 10px;
+    height: 50px;
+    background: url(../img/userHead.png) no-repeat;
+    background-size: 25px;
+    background-position-x:10px ;
+    background-position-y:10px ;
+    border: 1px solid #cccccc;
+}
+.passInput{
+    margin-top: 10px;
+    height: 50px;
+    background: url(../img/lock.png) no-repeat;
+    background-size: 25px;
+    background-position-x:10px ;
+    background-position-y:10px ;
+    border: 1px solid #cccccc;
+}
+.forgetPass{
+    color: #cccccc;
+}
+.autoLogin{
+    margin-top: 10px;
+}
+.btn_login{
+    margin-top: 20px;
+    height: 50px;
+    background: #d71201;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    font-size: 22px;
+}
+.icon a{
+    height: 40px;
+    padding: 0;
+}
+
+.mt{
+    margin-top: 20px;
+}
+.pd{
+
+}
+.icon a:nth-of-type(1){
+    background: url(../img/qqf.png) no-repeat;
+    background-size: 50% 80%;
+}
+.icon a:nth-of-type(2){
+    background: url(../img/wbf.png) no-repeat;
+    background-size: 50% 80%;
+}
+.icon a:nth-of-type(3){
+    background: url(../img/zhif.png) no-repeat;
+    background-size: 50% 80%;
+}
+.icon a:nth-of-type(4){
+    background: url(../img/wxf.png) no-repeat;
+    background-size: 50% 80%;
+}
+.icon a:nth-of-type(5){
+    background: url(../img/loadMore.png) no-repeat;
+    background-size: 20% 50%;
+    background-position-x: 90px;
+    background-position-y: -2px;
+    margin-top: 10px;
+}
+.text_bottom{
+    margin-top: 30px;
+    font-size: 10px;
+}
+
+.icon .pd:nth-of-type(1):hover{
+    background: url(../img/qqt.png) no-repeat;
+    background-size: 50% 80%;
+}
+
+.icon .pd:nth-of-type(2):hover{
+    background: url(../img/wbt.png) no-repeat;
+    background-size: 50% 80%;
+}
+.icon .pd:nth-of-type(3):hover{
+    background: url(../img/zhit.png) no-repeat;
+    background-size: 50% 80%;
+}
+.icon .pd:nth-of-type(4):hover{
+    background: url(../img/wxt.png) no-repeat;
+    background-size: 50% 80%;
+}
+
+iframe{
+    border: 0;
+    height: 170px;
+    margin-left: 200px;
+}

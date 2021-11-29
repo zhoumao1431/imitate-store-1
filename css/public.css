@@ -1,0 +1,10 @@
+#if_header{
+    border: 0;
+    height: 950px;
+    padding: 0;
+}
+#if_footer{
+    border: 0;
+    height: 700px;
+    margin-left: 80px;
+}
